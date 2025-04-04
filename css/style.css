@@ -274,7 +274,7 @@ html{
   flex-wrap: wrap;
 }
 .gallery-section .wrapper .gallery-item{
-  width: 25%;
+  width: 100%;
   position: relative;
 }
 .gallery-section .wrapper .gallery-item img{
